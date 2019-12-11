@@ -1,0 +1,20 @@
+{
+  "name": "testcheckcli",
+  "version": "1.0.0",
+  "description": "A cli tool for checking the classes that require tests in a given directory",
+  "main": "./cli.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "cli",
+    "apex",
+    "tests",
+    "files"
+  ],
+  "author": "TeeseCo",
+  "license": "ISC",
+  "bin": {
+    "check-tests": "./cli.js"
+  }
+}
